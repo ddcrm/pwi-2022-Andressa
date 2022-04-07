@@ -1,0 +1,17 @@
+.titulo {
+    color:dodgerblue;
+    font-weight:  italic 50px;
+}
+
+.paragrafo {
+    font-style: bolder oblique 26px;
+    font-weight: bolder;
+    color:dimgray
+}
+.subtitulo {
+    font-style: italic 05px;
+    font-weight: bolder
+}
+.img {
+    one font-variant-ligatures: border: ;
+}
