@@ -1,0 +1,34 @@
+ a{
+    font: 15px;
+    font-family:'Franklin Gothic Medium';
+    text-align: center;
+    display:block
+  }
+
+/* link que nao foi clicad/selecionado */
+  a:link {
+    color: rgb(24, 22, 145);
+  }
+  
+  /* nao foi visitado */
+  a:visited {
+    color: rgb(24, 22, 100);
+  }
+  
+  /* passar o mousse por cima  */ 
+  a:hover {
+    color: rgb(41, 152, 130);
+  }
+  
+  /* selecionar */
+  a:active {
+    color: blue;
+  }
+
+img{
+    width: 431px;
+    border-radius: 25px;
+    margin-right: auto;
+    display: block;
+    margin-left: auto;
+}
